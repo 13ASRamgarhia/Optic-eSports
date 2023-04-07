@@ -29,6 +29,7 @@ const Member = (props) => {
 };
 
 const About = () => {
+  document.title = "About | Optic eSports"
   const team = [
     {
       id: 7,

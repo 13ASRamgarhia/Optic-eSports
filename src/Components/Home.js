@@ -11,6 +11,7 @@ import { Icon } from "semantic-ui-react";
 import Appointment from "./Appointment";
 
 const Home = () => {
+  document.title = "Home | Optic eSports"
   const partners = [
     {
       name: "elgato",
